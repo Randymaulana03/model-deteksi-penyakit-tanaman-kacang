@@ -42,7 +42,6 @@ MANIFEST
 *.ipynb_checkpoints
 
 # Large model files
-*.h5
 *.hdf5
 *.pkl
 *.joblib
