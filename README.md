@@ -7,3 +7,7 @@ Proyek ini merupakan implementasi model Convolutional Neural Network (CNN) untuk
 berdasarkan citra daun. Sistem yang dikembangkan memungkinkan pengguna mengunggah gambar daun kacang melalui UI web, 
 kemudian model CNN akan menganalisis citra tersebut dan menghasilkan prediksi jenis penyakit beserta nilai confidence score sebagai 
 tingkat keyakinan model terhadap hasil prediksi.
+
+# Cara menjalankan
+## Instann
+akses: https://model-deteksi-penyakit-tanaman-kacanggit-nchmam6ehgjbnxqghkgzp.streamlit.app/
